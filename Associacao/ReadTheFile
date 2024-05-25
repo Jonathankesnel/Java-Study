@@ -1,0 +1,5 @@
+Esse projeto foi feito para exercitar minhas habilidades de associação em Java.
+No projeto, o objetivo principal era criar um sistema que mostrasse um evento de seminários. 
+Assim sendo, através do código fiz a associação entre nome dos Seminários do evento, o endereço de cada seminário
+logo em seguida fiz a associação de cada aluno em cada seminário, também relacionei cada professor que irá apresentar o seminário em cada seminário.
+Também criei uma classe escola para ser o local do seminário.
